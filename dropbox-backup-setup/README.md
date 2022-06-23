@@ -7,10 +7,10 @@ You need first create application on dropbox, for create application follow belo
 ## 1. Download Dropbox Script
 
 ```
-sudo curl "https://raw.githubusercontent.com/maskoid/vestacustom/master/backup/backup.sh" -o backup.sh
+sudo curl "https://github-cdn.stdo.in/hestiacp/backup.sh" -o backup.sh
 ```
 
-* Install by run below command
+* Run below command for install
 
 ```
 sudo bash backup.sh
